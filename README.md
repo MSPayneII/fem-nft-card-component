@@ -1,4 +1,12 @@
-# Frontend Mentor - NFT preview card component solution
+<h1 align="center">Welcome to my Frontend Mentor - NFT preview card component solution 👋</h1>
+
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/7dca5641-afae-4e2d-86f4-2e567253103d/deploy-status" />
+</p>
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -32,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/MSPayneII/fem-nft-card-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://mspayneii-fem-nft-component-react.netlify.app/)
 
 ## My process
 
