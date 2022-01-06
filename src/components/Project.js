@@ -23,7 +23,7 @@ const Project = ({ projects }) => {
             <div className="imgContainer">
               <img src={image} alt={name} className="cardImage" />
               <div className="overlay">
-                <a href="#">
+                <a href="/">
                   <img src={viewIcon} alt="icon" className="viewIcon" />
                 </a>
               </div>

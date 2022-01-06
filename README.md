@@ -18,7 +18,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### The challenge
 
-To be out this preview card component and get it looking as close to the design as possible using only HTML and CSS. I decided to take it one step further and build the component in React.
+To build this preview card component and get it looking as close to the design as possible using only HTML and CSS. I decided to take it one step further and build the component in React.
 
 Users should be able to:
 

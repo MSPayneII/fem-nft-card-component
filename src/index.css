@@ -190,7 +190,7 @@ body {
   background-color: var(--clr-card-bg);
   border-radius: 0.9375rem; /*15px*/
   width: 20.4375rem; /*327px*/
-  height: 36rem;
+  height: 36.5rem;
   padding: 1.5625rem;
 }
 
@@ -316,7 +316,7 @@ body {
   }
   .projectCard {
     width: 21.875rem; /*350px*/
-    height: 41rem;
+    height: 40rem;
   }
   .cardImage {
     width: 18.875rem;
