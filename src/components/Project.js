@@ -31,7 +31,7 @@ const Project = ({ projects }) => {
             <h2 className="cardTitle">{name}</h2>
             <p className="cardInfo">{info}</p>
 
-            <section className="details">
+            <div className="details">
               <div className="ethContainer">
                 <img
                   src={ethIcon}
@@ -56,9 +56,9 @@ const Project = ({ projects }) => {
                 />
                 <p className="daysDetail">{daysLeft}</p>
               </div>
-            </section>
+            </div>
             <div className="underline"></div>
-            <section>
+            <div>
               <div className="creatorContainer">
                 <img
                   src={creatorAvatar}
@@ -70,7 +70,7 @@ const Project = ({ projects }) => {
                   <span className="creatorName"> {creatorName}</span>
                 </p>
               </div>
-            </section>
+            </div>
           </article>
         );
       })}

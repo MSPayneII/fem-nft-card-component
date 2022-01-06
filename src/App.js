@@ -12,9 +12,9 @@ function App() {
 
   return (
     <main>
-      <section className="projectSection">
+      <div className="projectSection">
         <Project projects={projects} />
-      </section>
+      </div>
     </main>
   );
 }
